@@ -1,0 +1,8 @@
+{ "time": "2020-02-25 13:04:52.6886", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用, "exception": "{ \"callsite\": \"task.tags.search.v1.Handler.RequestProc\", \"callsite-linenumber\": \"177 \" }" }
+{ "time": "2020-02-25 13:08:08.2436", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用, "exception": "{ \"callsite\": \"task.tags.search.v1.Handler.RequestProc\", \"callsite-linenumber\": \"177 \" }" }
+{ "time": "2020-02-25 13:08:32.4118", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用, "exception": "{ \"callsite\": \"task.tags.search.v1.Handler.RequestProc\", \"callsite-linenumber\": \"177 \" }" }
+{ "time": "2020-02-25 13:18:15.3170", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用, "exception": "{ \"callsite\": \"task.tags.search.v1.Handler.RequestProc\", \"callsite-linenumber\": \"177 \" }" }

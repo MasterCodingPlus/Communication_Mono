@@ -1,0 +1,17 @@
+{ "counter": "1", "time": "2020-02-25 12:57:23.8302", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:01:55.3625", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "2", "time": "2020-02-25 13:04:52.6886", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用 }
+{ "counter": "3", "time": "2020-02-25 13:08:08.2436", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用 }
+{ "counter": "4", "time": "2020-02-25 13:08:32.4118", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用 }
+{ "counter": "1", "time": "2020-02-25 13:17:25.6009", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "2", "time": "2020-02-25 13:18:15.3170", "level": "ERROR", "message": English Message : You need to refer to MySql.Data.dll
+Chinese Message : 需要引用MySql.Data.dll，请在Nuget安装最新稳定版本,如果有版本兼容问题请先删除原有引用 }
+{ "counter": "1", "time": "2020-02-25 13:19:26.6677", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:20:53.6017", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:25:57.1517", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:26:32.9153", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:29:45.3787", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }
+{ "counter": "1", "time": "2020-02-25 13:33:38.9471", "level": "INFO", "message": 注册接口/test/del，来源task.tags.search.v1.Handler }

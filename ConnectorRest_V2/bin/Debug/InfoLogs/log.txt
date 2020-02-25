@@ -1,0 +1,57 @@
+{ "counter": "1", "time": "2020-02-25 11:19:20.9285", "level": "INFO", "message": 测试test }
+{ "counter": "2", "time": "2020-02-25 11:19:22.1798", "level": "WARN", "message": 测试test }
+{ "counter": "3", "time": "2020-02-25 11:19:22.1798", "level": "ERROR", "message": 测试test }
+{ "counter": "4", "time": "2020-02-25 11:19:22.1928", "level": "FATAL", "message": 测试test }
+{ "counter": "5", "time": "2020-02-25 11:19:22.1928", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "6", "time": "2020-02-25 11:19:22.7399", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "7", "time": "2020-02-25 11:19:22.7399", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "1", "time": "2020-02-25 11:19:50.1669", "level": "INFO", "message": 测试test }
+{ "counter": "2", "time": "2020-02-25 11:19:50.1979", "level": "WARN", "message": 测试test }
+{ "counter": "3", "time": "2020-02-25 11:19:50.1979", "level": "ERROR", "message": 测试test }
+{ "counter": "4", "time": "2020-02-25 11:19:50.2109", "level": "FATAL", "message": 测试test }
+{ "counter": "5", "time": "2020-02-25 11:19:50.2109", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "6", "time": "2020-02-25 11:19:50.8030", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "7", "time": "2020-02-25 11:19:50.8030", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "1", "time": "2020-02-25 11:22:49.1015", "level": "INFO", "message": 测试test }
+{ "counter": "2", "time": "2020-02-25 11:22:49.1275", "level": "WARN", "message": 测试test }
+{ "counter": "3", "time": "2020-02-25 11:22:49.1295", "level": "ERROR", "message": 测试test }
+{ "counter": "4", "time": "2020-02-25 11:22:49.1295", "level": "FATAL", "message": 测试test }
+{ "counter": "5", "time": "2020-02-25 11:22:49.1295", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "6", "time": "2020-02-25 11:22:49.7117", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "7", "time": "2020-02-25 11:22:49.7117", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "1", "time": "2020-02-25 11:23:13.0819", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 11:23:13.7101", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 11:23:13.7101", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "1", "time": "2020-02-25 12:58:44.5649", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 12:58:45.6322", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 12:58:45.6322", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "4", "time": "2020-02-25 13:04:14.1281", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "5", "time": "2020-02-25 13:04:52.7816", "level": "ERROR", "message": 无法找到程序集“BizUtils_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”。 }
+{ "counter": "1", "time": "2020-02-25 13:07:25.6765", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 13:07:27.1008", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 13:07:27.1008", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "1", "time": "2020-02-25 13:17:40.4717", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 13:17:41.1549", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 13:17:41.1549", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "4", "time": "2020-02-25 13:20:19.2399", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownLocalException”的异常。 }
+{ "counter": "5", "time": "2020-02-25 13:21:48.7858", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "6", "time": "2020-02-25 13:22:16.6606", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "7", "time": "2020-02-25 13:22:38.0999", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "1", "time": "2020-02-25 13:24:19.6832", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 13:24:21.0395", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 13:24:21.0395", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "4", "time": "2020-02-25 13:24:33.5653", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "5", "time": "2020-02-25 13:24:55.8684", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "6", "time": "2020-02-25 13:25:35.4433", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "7", "time": "2020-02-25 13:26:00.9595", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "8", "time": "2020-02-25 13:26:05.6476", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "9", "time": "2020-02-25 13:26:06.7558", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "10", "time": "2020-02-25 13:26:07.8471", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "11", "time": "2020-02-25 13:26:16.9872", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "12", "time": "2020-02-25 13:26:38.4286", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "13", "time": "2020-02-25 13:27:16.2131", "level": "ERROR", "message": issueResponse get a biz srv error:引发类型为“Ice.UnknownException”的异常。 }
+{ "counter": "1", "time": "2020-02-25 13:31:21.8881", "level": "INFO", "message": 开始启动服务:http://+:8080/,https://+:8081/ }
+{ "counter": "2", "time": "2020-02-25 13:31:22.4933", "level": "INFO", "message": REST监听启动于：http://+:8080/ }
+{ "counter": "3", "time": "2020-02-25 13:31:22.4933", "level": "INFO", "message": REST监听启动于：https://+:8081/ }
+{ "counter": "4", "time": "2020-02-25 13:32:36.9415", "level": "ERROR", "message": issueResponse get a biz srv error: }
+{ "counter": "5", "time": "2020-02-25 13:32:36.9415", "level": "ERROR", "message": issueResponse get a biz srv error: }

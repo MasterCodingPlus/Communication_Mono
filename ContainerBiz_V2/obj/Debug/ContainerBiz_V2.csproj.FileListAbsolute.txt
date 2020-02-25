@@ -1,0 +1,52 @@
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\NLog.config
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\config.client
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.exe.config
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.exe
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.pdb
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\BizUtils_V2.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\DCClient4ICE_Client.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\Ice.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\NLog.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\Topshelf.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\Newtonsoft.Json.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\BizUtils_V2.pdb
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\NLog.xml
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\Topshelf.xml
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\Newtonsoft.Json.xml
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.csprojAssemblyReference.cache
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.csproj.CopyComplete
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.exe
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.pdb
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\ContainerBiz.ini
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\SqlSugar.dll
+D:\Nwt\李文渊\子图 - 副本(1)\ztxt\Communication\ContainerBiz_V2\bin\Debug\BizUtils_V2.dll.config
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\NLog.config
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\config.client
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\ContainerBiz.ini
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.exe.config
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.exe
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\ContainerBiz_V2.pdb
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\BizUtils_V2.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\DCClient4ICE_Client.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Ice.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\NLog.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Topshelf.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Newtonsoft.Json.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\SqlSugar.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\MySql.Data.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Google.Protobuf.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\BouncyCastle.Crypto.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Ubiety.Dns.Core.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Renci.SshNet.dll
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\BizUtils_V2.pdb
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\BizUtils_V2.dll.config
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\NLog.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Topshelf.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Newtonsoft.Json.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\MySql.Data.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Google.Protobuf.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\bin\Debug\Renci.SshNet.xml
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.csprojAssemblyReference.cache
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.csproj.CopyComplete
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.exe
+E:\2020\Project\Communication_Mono\ContainerBiz_V2\obj\Debug\ContainerBiz_V2.pdb

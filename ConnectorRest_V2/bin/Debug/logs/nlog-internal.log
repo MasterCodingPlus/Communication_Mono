@@ -1,0 +1,55 @@
+2020-02-25 11:19:50.0089 Info Message Template Auto Format enabled
+2020-02-25 11:19:50.0509 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 11:19:50.0509 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 11:19:50.0829 Info Found 48 configuration items
+2020-02-25 11:19:50.1029 Info Configuration initialized.
+2020-02-25 11:19:50.1029 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 11:22:48.9305 Info Message Template Auto Format enabled
+2020-02-25 11:22:48.9665 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 11:22:48.9775 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 11:22:48.9775 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 11:22:49.0075 Info Found 63 configuration items
+2020-02-25 11:22:49.0245 Info Configuration initialized.
+2020-02-25 11:22:49.0245 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 11:23:12.9359 Info Message Template Auto Format enabled
+2020-02-25 11:23:12.9699 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 11:23:12.9809 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 11:23:12.9809 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 11:23:13.0089 Info Found 63 configuration items
+2020-02-25 11:23:13.0249 Info Configuration initialized.
+2020-02-25 11:23:13.0249 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 12:58:44.4119 Info Message Template Auto Format enabled
+2020-02-25 12:58:44.4449 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 12:58:44.4449 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 12:58:44.4449 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 12:58:44.4819 Info Found 63 configuration items
+2020-02-25 12:58:44.4969 Info Configuration initialized.
+2020-02-25 12:58:44.4969 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 13:07:25.4654 Info Message Template Auto Format enabled
+2020-02-25 13:07:25.5074 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 13:07:25.5214 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 13:07:25.5214 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 13:07:25.5574 Info Found 63 configuration items
+2020-02-25 13:07:25.5765 Info Configuration initialized.
+2020-02-25 13:07:25.5765 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 13:17:40.2757 Info Message Template Auto Format enabled
+2020-02-25 13:17:40.3127 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 13:17:40.3237 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 13:17:40.3237 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 13:17:40.3517 Info Found 63 configuration items
+2020-02-25 13:17:40.3677 Info Configuration initialized.
+2020-02-25 13:17:40.3677 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 13:24:19.4982 Info Message Template Auto Format enabled
+2020-02-25 13:24:19.5342 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 13:24:19.5342 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 13:24:19.5342 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 13:24:19.5762 Info Found 63 configuration items
+2020-02-25 13:24:19.5942 Info Configuration initialized.
+2020-02-25 13:24:19.5942 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-02-25 13:31:21.7021 Info Message Template Auto Format enabled
+2020-02-25 13:31:21.7411 Info Adding target ColoredConsoleTarget(Name=console)
+2020-02-25 13:31:21.7551 Info Adding target FileTarget(Name=InfoFile)
+2020-02-25 13:31:21.7551 Info Adding target FileTarget(Name=ErrorFile)
+2020-02-25 13:31:21.7841 Info Found 63 configuration items
+2020-02-25 13:31:21.8011 Info Configuration initialized.
+2020-02-25 13:31:21.8011 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
